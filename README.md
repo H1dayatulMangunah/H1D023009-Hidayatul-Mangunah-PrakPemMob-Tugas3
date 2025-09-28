@@ -11,14 +11,14 @@
 Berikut adalah tampilan hasil aplikasi Android:
 
 ## Tampilan Awal Ketika Di Run
-![Tampilan Awal](assets/Tampilan%20Awal-Screenshot%202025-09-23%20175903.png)
+![Tampilan Awal](assets/Tampilan%20awal-Screenshot_20250928_213749.png)
 
 ## Tampilan Logo Perpindahan Ketika Masuk Ke Aplikasinya
-![Tampilan Logo](assets/Tampilam%202-Tampilan%20Logo-Screenshot%202025-09-23%20175930.png)
+![Tampilan Logo](assets/Tampilan%20peralihan%20ketika%20login-Screenshot_20250928_213822.png)
 
 ## Tampilan Aplikasi Yang Diselesaikan Di Tugas 3
-
+![Tampilan Aplikasi Tugas 3](assets/Tampilan%20Tugas%203-Screenshot_20250928_213721.png).
 
 ## 🎥 Demo Aplikasi Penjelasan Singkat Aplikasinya
 Video demo aplikasi dapat dilihat pada file berikut:  
-`Demo Tugas 2-Screen Recording 2025-09-19 223112.mp4`
+`assets/Demo%20Tugas%203-Screen%20Recording%202025-09-28%20215031.mp4`

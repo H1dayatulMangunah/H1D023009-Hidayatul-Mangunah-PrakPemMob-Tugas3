@@ -18,8 +18,10 @@ Berikut adalah tampilan hasil aplikasi Android:
 ![Tampilan Logo](assets/Tampilan%20peralihan%20ketika%20login-Screenshot_20250928_213822.png)
 
 ## Tampilan Aplikasi Yang Diselesaikan Di Tugas 3
-![Tampilan Aplikasi Tugas 3](assets/Tampilan%20Tugas%203-Screenshot_20250928_213721.png).
+![Tampilan Tugas 3](assets/Tampilan%20Tugas%203-Screenshot_20250928_213721.png).
 
 ## 🎥 Demo Aplikasi Penjelasan Singkat Aplikasinya
+Versi Gifnya:
+![Tampilan Aplikasi Tugas 3](assets/Demo%20Tugas%203-Screen%20Recording%202025-09-28%20215031.gif).
 Video demo aplikasi dapat dilihat pada file berikut:  
 `assets/Demo%20Tugas%203-Screen%20Recording%202025-09-28%20215031.mp4`

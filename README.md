@@ -26,4 +26,4 @@ Versi Gifnya:
 ![Tampilan Aplikasi Tugas 3](assets/Demo%20Tugas%203-Screen%20Recording%202025-09-28%20215031.gif).
 
 Video demo aplikasi dapat dilihat pada file berikut:  
-'assets/Demo%20Tugas%203-Screen%20Recording%202025-09-28%20215031.mp4
+'assets/Demo%20Tugas%203-Screen%20Recording%202025-09-28%20215031.mp4'
